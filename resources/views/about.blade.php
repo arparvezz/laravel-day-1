@@ -1,4 +1,4 @@
-@extends('partials.header')
+@extends('partials.main')
 
 @section('main_content')
     <div class="container mx-auto py-2">

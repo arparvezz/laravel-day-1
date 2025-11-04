@@ -11,9 +11,9 @@
             <a href="#" class="bg-blue-100 text-blue-500 px-3 py-1 rounded">Logo</a>
             <nav>
                 <ul class="flex flex-row gap-5">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/contact">Contact</a></li>
                 </ul>
             </nav>
             <button class="bg-blue-600 text-blue-100 px-4 py-2 rounded">Contact Now</button>
